@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.example.pokemonapp.ui.fragments.FragmentHome"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentSearchRandom"
+            app:destination="@id/fragmentSearchRandom"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentSearchByName"
+            app:destination="@id/fragmentSearchByName"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentFavourites"
+            app:destination="@id/fragmentFavourites"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentDetails"
+            app:destination="@id/fragmentDetails"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentWebView"
+            app:destination="@id/fragmentWebView"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentSearchRandom"
+        android:name="com.example.pokemonapp.ui.fragments.FragmentSearchRandom"
+        android:label="@string/search_random_pokemon"
+        tools:layout="@layout/fragment_search_by_name" />
+    <fragment
+        android:id="@+id/fragmentSearchByName"
+        android:name="com.example.pokemonapp.ui.fragments.FragmentSearchByName"
+        android:label="@string/search_pokemon_by_name"
+        tools:layout="@layout/fragment_search_by_name" />
+    <fragment
+        android:id="@+id/fragmentFavourites"
+        android:name="com.example.pokemonapp.ui.fragments.FragmentFavourites"
+        android:label="@string/favourite_pokemons"
+        tools:layout="@layout/fragment_favourites" />
+    <fragment
+        android:id="@+id/fragmentDetails"
+        android:name="com.example.pokemonapp.ui.fragments.FragmentDetails"
+        android:label="@string/pokemon_details"
+        tools:layout="@layout/fragment_search_by_name">
+        <argument
+            android:name="pokemonToShowDetails"
+            app:argType="com.example.pokemonapp.model.wholelistinfo.Result" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentWebView"
+        android:name="com.example.pokemonapp.ui.fragments.FragmentWebView"
+        android:label="@string/about_api"
+        tools:layout="@layout/fragment_webview" />
+</navigation>

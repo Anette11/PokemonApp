@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_bookmark_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_error.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_error_outline.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_home.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_image_search.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_info.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_launcher_pokemon_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_pokemon.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_pokemon_size_100.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_pokemon_size_200.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_progress_indicator.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_random.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_refresh.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/ic_search.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/progress_indicator_animated.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/refresh_animated.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/drawable/splash_screen.xml" value="0.2703125" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout-land/fragment_search_by_name.xml" value="0.264" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/activity_pokemon.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/error_state.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/fragment_favoirites.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/fragment_favourites.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/fragment_search_by_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/fragment_search_random.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/fragment_webview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/head_of_navigation_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/header_of_navigation_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/load_state_footer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/one_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/one_item_in_database.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/layout/one_item_in_favourites.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/menu/menu_search_by_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/kriva/AndroidStudioProjects/PokemonApp2/app/src/main/res/menu/menu_search_random.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

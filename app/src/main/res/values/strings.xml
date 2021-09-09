@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string name="saved">Saved</string>
+    <string name="retry">Retry</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="icon_app">Icon app</string>
+    <string name="search_random">Search random</string>
+    <string name="search_by_name">Search by Name</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="learn_more">Learn more</string>
+    <string name="about_api">About API</string>
+    <string name="pokemon_picture">Pokemon picture</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="not_found">Not found</string>
+    <string name="timeout_exception_try_again">Timeout exception. Try again</string>
+    <string name="undo">UNDO</string>
+    <string name="deleted">Deleted</string>
+    <string name="pokemon_details">Pokemon details</string>
+    <string name="favourite_pokemons">Favourite pokemons</string>
+    <string name="search_pokemon_by_name">Search pokemon by name</string>
+    <string name="search_random_pokemon">Search random pokemon</string>
+</resources>
